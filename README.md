@@ -58,13 +58,4 @@ Real vaqt chat: WebSocket (Socket.io)
 - Baholash tizimi
 - Mobil versiya
 
-## O‘rnatish
-
-1. Repository klon qiling
-2. Backend va frontend papkalarini alohida ishga tushiring
-3. Environment o‘zgaruvchilarni sozlang
-4. Ma’lumotlar bazasini ulab ishga tushiring
-
-## Litsenziya
-
-Ichki foydalanish uchun mo‘ljallangan loyiha.
+Demo sinab ko'rish: https://murojaatchi.vercel.app/
